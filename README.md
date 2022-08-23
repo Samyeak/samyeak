@@ -2,7 +2,7 @@
 
 ###
 
-# TL;DW
+# [![Too Long. Didn't Write](https://img.shields.io/badge/TL;-DW;-darkgreen.svg)](https://samyeak.com.np/)
 
 
 <div align="center">
@@ -10,10 +10,14 @@
 <img height="50%" width="48%" float="right" src="https://github-readme-streak-stats.herokuapp.com/?user=samyeak&theme=tokyonight&hide_border=true">
 </div>
 
+
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyeak&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
+<p align = "center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samyeak&theme=tokyonight">
+</p>
 
 ###
 
