@@ -1,13 +1,13 @@
-<h2 align="left">Hi 👋! I am Samyeak. Welcome to my laboratory. </h2>
+<h2 align="left">Hi 👋! Samyeak heartly welcomes you to his laboratory. </h2>
 
 ###
 
-# TL;DR
+# TL;DW
 
 
 <div align="center">
-<img height="50%" width="45%" src="https://github-readme-stats.vercel.app/api?username=samyeak&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
-<img height="50%" width="45%" float="right" src="https://github-readme-streak-stats.herokuapp.com/?user=samyeak&theme=tokyonight&hide_border=true">
+<img height="50%" width="48%" src="https://github-readme-stats.vercel.app/api?username=samyeak&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+<img height="50%" width="48%" float="right" src="https://github-readme-streak-stats.herokuapp.com/?user=samyeak&theme=tokyonight&hide_border=true">
 </div>
 
 <p align = "center">
