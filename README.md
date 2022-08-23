@@ -2,24 +2,22 @@
 
 ###
 
-# TL;DR;
+# TL;DR
 
 
-<p align = "center">
-
- ![](https://github-readme-stats.vercel.app/api?username=samyeak&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
- ![](https://github-readme-streak-stats.herokuapp.com/?user=samyeak&theme=tokyonight&hide_border=true)
-</p>
+<div align="center">
+<img height="50%" src="https://github-readme-stats.vercel.app/api?username=samyeak&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+<img height="50%" float="right" src="https://github-readme-streak-stats.herokuapp.com/?user=samyeak&theme=tokyonight&hide_border=true">
+</div>
 
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyeak&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
+
 ###
 
-
 ## Raw materials used in my experiments
-
 
 <div style="display:flex; flex-wrap: wrap; justify-content: flex-start;" class="flex-container">
 <div style="flex-grow: 1;flex-shrink: 1; flex:50%">
@@ -36,8 +34,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/knockout/knockout-plain-wordmark.svg" height="30" width="42" alt="knockout logo" title="knockout"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" width="42" alt="jquery logo" title="jquery"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" width="42" alt="materialui logo" title="materialui"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="30" width="42" alt="eslint logo" title="eslint" /> 
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="30" width="42" alt="eslint logo" title="eslint" />
+
 </div>
 <div style="flex-grow: 1;flex-shrink: 1; flex:50%">
 
@@ -67,7 +65,7 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" width="42" alt="flutter logo" title="flutter"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" width="42" alt="dart logo" title="dart" />
-          
+
 </div>
 <div style="flex-grow: 1;flex-shrink: 1; flex:50%">
 
@@ -87,15 +85,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" width="42" alt="jira logo" title="jira"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"height="30" width="42" alt="docker logo" title="docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-original.svg" height="30" width="42" alt="tortoisegit logo" title="tortoisegit"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo" title="github" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" width="42" alt="gitlab logo" title="gitlab" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="30" width="42" alt="putty logo" title="putty" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" width="42" alt="yarn logo" title="yarn" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo" title="github" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" width="42" alt="gitlab logo" title="gitlab" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="30" width="42" alt="putty logo" title="putty" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" width="42" alt="yarn logo" title="yarn" />
 </div>
 </div>
 
 ###
-
 
 <div align="left">
 </div>
