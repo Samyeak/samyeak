@@ -6,8 +6,8 @@
 
 
 <div align="center">
-<img height="50%" src="https://github-readme-stats.vercel.app/api?username=samyeak&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
-<img height="50%" float="right" src="https://github-readme-streak-stats.herokuapp.com/?user=samyeak&theme=tokyonight&hide_border=true">
+<img height="50%" width="45%" src="https://github-readme-stats.vercel.app/api?username=samyeak&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+<img height="50%" width="45%" float="right" src="https://github-readme-streak-stats.herokuapp.com/?user=samyeak&theme=tokyonight&hide_border=true">
 </div>
 
 <p align = "center">
